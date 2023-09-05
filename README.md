@@ -31,7 +31,7 @@ To install the README Generator Project, follow these simple steps:
 
 ## Usage
 
-![Gif demo of README-generator](https://youtu.be/zARxuwJtT14)
+[![Gif demo of README-generator](https://img.youtube.com/vi/zARxuwJtT14/0.jpg)](https://youtu.be/zARxuwJtT14)
 
 To generate a professional README.md file for your project, run the following command in your terminal:
 
