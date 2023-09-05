@@ -21,7 +21,7 @@ To install the README Generator Project, follow these simple steps:
 
 1. Clone this repository to your local machine:
 
-- git clone https://github.com/yourusername/readme-generator.git
+- git clone https://github.com/camilasbarros/readme-generator.git
 
 2. Navigate to the project directory:
 
@@ -32,8 +32,6 @@ To install the README Generator Project, follow these simple steps:
 - npm install
 
 ## Usage
-
-![Gif demo of README-generator](https://drive.google.com/file/d/1VTO7b9JJQOlv6_XG9YZX1BZ3yzPMAfc8/view)
 
 To generate a professional README.md file for your project, run the following command in your terminal:
 
@@ -57,6 +55,8 @@ The application also utilizes, as much as possible, syntax and paradigms introdu
 This project is licensed under the MIT license. ![License Badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Questions
+
+For any questions, please contact me with the information below:
 
 - GitHub: [Camilasbarros](https://github.com/Camilasbarros)
 - Email: cmillabarros.cb@gmail.com
