@@ -11,8 +11,6 @@ This is a command-line application that runs with Node.js that dynamically gener
 - [Usage](#usage)
 - [Methodology](#methodology)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
