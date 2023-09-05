@@ -13,6 +13,7 @@ ${data.description}
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Methodology](#methodology)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -23,6 +24,9 @@ ${data.installation}
 
 ## Usage
 ${data.usage}
+
+## Methodology
+${data.methodology}
 
 ## License
 This project is licensed under the ${data.license} license. ![License Badge](https://img.shields.io/badge/License-${data.license}-brightgreen)
@@ -60,6 +64,11 @@ const questions = [
     type: "input",
     name: "usage",
     message: "How to use the project?",
+  },
+  {
+    type: "input",
+    name: "methodology",
+    message: "What is the development methodology adopted by the project?",
   },
   {
     type: "list",
